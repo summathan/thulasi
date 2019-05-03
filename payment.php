@@ -13,7 +13,7 @@ echo '<h2>'. 'Selected movie is:'.$_SESSION['$sm'].'</h2>';
 
 echo "<table><tr><td><i><h2><br><br><center>LAST BOOKED PAYMENT:</h2></i>";
 foreach ($_SESSION['pay'] as $i=>$j)
-{
+{hooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
 	echo '<h2>'.$i.': '.$j.'<br>';
 }
 

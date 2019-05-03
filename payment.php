@@ -2,7 +2,7 @@
 <head><title>PAYMENT</title></head>
 <body>
 <?php
-session_start();
+session_start();egojaoirjgio
 $_SESSION['$sm']=stripcslashes($_POST['moviees']);
 echo $_SESSION['$sm'];
 $_SESSION['pay'];

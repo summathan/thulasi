@@ -17,7 +17,7 @@ foreach ($_SESSION['pay'] as $i=>$j)
 	echo '<h2>'.$i.': '.$j.'<br>';
 }
 
-
+hooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
 ?>
 <table>
 <tr>
